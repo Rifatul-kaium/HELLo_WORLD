@@ -1,2 +1,2 @@
 # HELLo_WORLD
-"This repository is for practicing the GitHub Flow."
+"HI, I am rifa.This repository is for practicing the GitHub Flow."
